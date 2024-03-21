@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amv493&label=Profile%20views&color=0e75b6&style=flat" alt="amv493" /> </p>
 <img align="center" alt="Coding" width="1920" src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 <h1 align="center">Hello 👋, I'm Anthony McKinney</h1>
-<h3 align="center">A passionate Frontend Developer from South Carolina, specializes with React & Tailwind. I love creating new things and am always down to connect & chat with new people. If you're looking to do that, don't hesitate to reach out!</h3>
+<h3 align="center">A passionate Frontend Developer from South Carolina who specializes in React & Tailwind. I love creating new things and am always down to connect & chat with new people. If you're looking to do that, don't hesitate to reach out!</h3>
 <img align="center" alt="Luffy" width="480" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNjMDB0ZDhsYmprMXExeGc0a2Jma3ZxZDhqMDhydXB5bW9oM3ZvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif">
 
 
